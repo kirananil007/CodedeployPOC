@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /root/projects/simple-php-website/index.php
+  - source: /
     destination: /var/www/html/
