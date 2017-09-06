@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /
+  - source: /root/projects/simple-php-website/CodedeployPOC
     destination: /var/www/html/
 hooks:
   BeforeInstall:
